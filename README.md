@@ -2,17 +2,22 @@
 Fine-tuned a large language model in order to apply it on a medical QnA dataset to make a medical question answering chatbot.
 
 # Features
-### Quick and Accurate Responses: Get prompt and precise answers to your medical questions, eliminating the need for time-consuming research.
-### Comprehensive Medical Knowledge: Access a vast database of medical resources and evidence-based practices to ensure reliable information.
-### Symptom Analysis: Describe your symptoms, and MediTalk will provide insights and recommendations based on the information provided.
-### User-Friendly Interface: Enjoy a seamless user experience with an intuitive and easy-to-use chatbot interface.
-### Collaboration with Experts: MediTalk has been developed in collaboration with healthcare professionals and experts to ensure accuracy and quality.
+### Quick and Accurate Responses:
+Get prompt and precise answers to your medical questions, eliminating the need for time-consuming research.
+### Comprehensive Medical Knowledge: 
+Access a vast database of medical resources and evidence-based practices to ensure reliable information.
+### Symptom Analysis: 
+Describe your symptoms, and MediTalk will provide insights and recommendations based on the information provided.
+### User-Friendly Interface: 
+Enjoy a seamless user experience with an intuitive and easy-to-use chatbot interface.
+### Collaboration with Experts: 
+MediTalk has been developed in collaboration with healthcare professionals and experts to ensure accuracy and quality.
 
 # Operation
-Since we are in a very early development phase, hence, API is not yet developed, you can instead run it via following these steps:-
+Since we are in a very early development phase, hence, API is not yet developed, you can instead run it by following these steps:-
 
 ### Run the notebook: MediTalk_(fine_tuned_execution)
-### Put your question in the tokenizer input value in first line of code in third code block (cell)
+### Put your question in the tokenizer input value in the first line of code in the third code block (cell)
 
 Note: Please ensure that you install Python 3.7 or above on your system and use a GPU-based runtime environment.
 
