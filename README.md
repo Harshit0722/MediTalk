@@ -14,12 +14,18 @@ Enjoy a seamless user experience with an intuitive and easy-to-use chatbot inter
 MediTalk has been developed in collaboration with healthcare professionals and experts to ensure accuracy and quality.
 
 # Operation
-Since we are in a very early development phase, hence, API is not yet developed, you can instead run it by following these steps:-
+Since we are in a very early development phase, hence, API is still in continuous improvement,
 
-### Run the notebook: MediTalk_(fine_tuned_execution)
-### Put your question in the tokenizer input value in the first line of code in the third code block (cell)
+Run the notebook: MediTalk_(fine_tuned_execution)
+Put your question in the tokenizer input value in the first line of code in the third code block (cell)
 
 Note: Please ensure that you install Python 3.7 or above on your system and use a GPU-based runtime environment.
+
+## Update:-
+The first API is developed using Streamlit. Just follow these simple steps:-
+Open MediTalk_execution_using_st & run the code
+Follow the URL, copy your IP provided in the last step & using it as a passkey for the local tunnel services.
+Enjoy the web app interface
 
 # Contributing
 We welcome contributions to enhance MediTalk and make it even more valuable to users. To contribute, please follow these steps:
